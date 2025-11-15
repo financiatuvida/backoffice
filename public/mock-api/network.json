@@ -1,0 +1,22 @@
+[
+  {
+    "id": "u4",
+    "name": "Distribuidor 1",
+    "level": 1
+  },
+  {
+    "id": "u5",
+    "name": "Distribuidor 2",
+    "level": 1
+  },
+  {
+    "id": "u6",
+    "name": "Distribuidor 3",
+    "level": 2
+  },
+  {
+    "id": "u7",
+    "name": "Cliente X",
+    "level": 3
+  }
+]

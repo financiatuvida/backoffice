@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c1",
+    "level": 1,
+    "beneficiary_id": "u2",
+    "amount": 20,
+    "date": "2025-11-02"
+  },
+  {
+    "id": "c2",
+    "level": 2,
+    "beneficiary_id": "u1",
+    "amount": 15,
+    "date": "2025-11-03"
+  }
+]
